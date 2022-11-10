@@ -2,10 +2,6 @@ Hola este es un archivo
 
 este archivo se guardara en la carpeta proyecto
 
-este sera su destino
+y su creador Josue Padilla
 
-nuevo destino
-
-a padilla josue
-
-Hablaremos de la historia del creador.
+Hablaremos de su vida y maestria.
